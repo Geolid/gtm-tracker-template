@@ -15,5 +15,5 @@
 homepage: "https://geolid.com"
 documentation: "https://developers.geolid.io"
 versions:
-  - sha: ce49ba09825208f56d95f072b3e174aa9bbeae91
+  - sha: 788df494528b311d1102cda7611687ff196cc394
     changeNotes: Initial Version
